@@ -1,0 +1,6 @@
+# pycharm文件
+.idea
+# 临时文件夹
+dataset/tempimage
+dataset/tempvideo
+
